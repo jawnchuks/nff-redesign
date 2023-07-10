@@ -1,0 +1,1 @@
+export const backendApiURL = process.env.URL || "http://localhost:5000";
